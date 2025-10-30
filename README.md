@@ -7,7 +7,7 @@
 
 📫 How to reach me **jayaramjayakrishnan@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1Ex5HLXR_WrgreUU5Tv2x7Oum8iRQoSl5/view?usp=share_link](https://drive.google.com/file/d/1Ex5HLXR_WrgreUU5Tv2x7Oum8iRQoSl5/view?usp=share_link)
+📄 Know about my experiences (https://drive.google.com/file/d/1Z7ZktJsqtuQkhEQQEJ4SC0IJNprvqs-i/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
