@@ -1,4 +1,3 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--1YFE_lec--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z6pkbof42d5ljfxtox3p.png)
 <h1 align="center">Hi 👋, I'm Jayaram JK</h1>
 <h3 align="center">Full stack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ0NWVjZTdmNDRmZTg4MmU1MzQ1YTI5MWNmMjNkZjcxMTY5NTI0NCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
